@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashvpatel
 - 👀 I’m interested in front end web developer
 - 🌱 I’m currently learning javascript,REACT JS.
-- 💞️ I’m looking to collaborate on project, in which I expand my knowlrdge
+- 💞️ I’m looking to collaborate on project, in which I expand my knowledge
 - 📫 How to reach me avpatel.98@gmail.com
 
 <!---
